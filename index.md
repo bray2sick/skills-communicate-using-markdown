@@ -20,3 +20,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Hello World!
+- [ ] Hello World!
+- [ ] Hello World!
+- [x] Hello World!
+- [x] Hello World!
